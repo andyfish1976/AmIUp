@@ -1,4 +1,6 @@
 # Ignore the binaries
 /bin/
 
-# Ignore the ...
+# Ignore the scannerwrok from SonarCloud...
+.scannerwork
+
